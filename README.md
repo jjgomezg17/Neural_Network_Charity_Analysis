@@ -35,6 +35,8 @@
 ##### Achieving the desired model performance can be challenging, and it often requires careful analysis of the data and extensive experimentation with different model architectures and hyperparameters. It is important to keep in mind that not all problems can be solved with a high level of accuracy, and sometimes a more realistic approach is to optimize the model as much as possible while balancing the resources and time available.
 ##### However, there may still be opportunities to improve the model performance by further exploring the data and experimenting with different modeling techniques. It may also be useful to seek guidance from domain experts or consult the relevant literature to gain additional insights into the problem and potential solutions.
 
+![1](https://raw.githubusercontent.com/jjgomezg17/Neural_Network_Charity_Analysis/main/Images/1.png)
+
 #### What steps did you take to try and increase model performance?
 
 ##### To increase model performance, I recategorized some of the variables by adding values to categories and used the same logic of the original variable on the cases of the variables INCOME_AMT, SPECIAL_CONSIDERATIONS, and ORGANIZATION. I also stopped using the variable ASK_AMT.
@@ -55,4 +57,7 @@
 ### Future Analysis
 
 ### To improve the model performance, further data exploration and feature engineering may be necessary. One possible approach is to perform a feature importance analysis to identify the most relevant variables for predicting the success of an organization. Additionally, different modeling techniques, such as ensemble learning or other types of neural networks, could be explored.
+
+![2](https://raw.githubusercontent.com/jjgomezg17/Neural_Network_Charity_Analysis/main/Images/2.png)
+
 ### Moreover, it may be useful to consult domain experts or relevant literature to gain additional insights into the problem and potential solutions. Finally, it could be beneficial to increase the size of the dataset or collect additional data to improve the accuracy of the model.
